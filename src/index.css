@@ -24,5 +24,7 @@
   --advertencia-claro: #fff3e0;
   --info-color: #1976d2;
   --info-claro: #e3f2fd;
-  --font-family: "Open sans",Ariel,Helvetica,Lucida,sans-serif;
+  --font-principal: "Open Sans", sans-serif; 
+  --font-institucional: "Arial", sans-serif; 
+  --font-complementario: "Rubik", "Montserrat", "Times New Roman", serif;
 }
