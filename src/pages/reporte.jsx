@@ -14,7 +14,7 @@ export function Reporte() {
   const [datos, setDatos] = useState([])
   const [periodoFiltrado, setPeriodoFiltrado] = useState('')
 
-  // Simula la carga desde backend
+  // Simula la carga desde backend hola
   useEffect(() => {
     const datosPrueba = [
       { cedula: '123456', programa: 'Sistemas', movilidad: 5, periodo: '2024-1', pais: 'México' },
